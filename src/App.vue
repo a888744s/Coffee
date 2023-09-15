@@ -75,7 +75,6 @@ export default {
   background-image: url(/src/assets/c4.jpg);
   text-align: center;
   font-family: Arial, sans-serif;
-  background-color: #dfdfdf; /* Updated background color */
   padding: 140px;
 }
 
