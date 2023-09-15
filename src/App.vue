@@ -72,7 +72,7 @@ export default {
 <style scoped>
 .coffee-shop-app {
   flex: auto;
-  background-image: url(C:\Users\JR\Desktop\Coffee1\src\assets\c4.jpg);
+  background-image: url(C:/Users/JR/Desktop/Coffee1/src/assets/c4.jpg);
   text-align: center;
   font-family: Arial, sans-serif;
   background-color: #dfdfdf; /* Updated background color */
