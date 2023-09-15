@@ -10,7 +10,7 @@
         
       </div>
     </div>
-
+    
     <div v-if="reservation" class="reservation-details">
       <h2>ข้อมูลการจอง</h2>
       <p><strong>ชื่อ:</strong> {{ reservation.name }}</p>
@@ -72,11 +72,11 @@ export default {
 <style scoped>
 .coffee-shop-app {
   flex: auto;
-  background-image: url(C:/Users/JR/Desktop/Coffee1/src/assets/c4.jpg);
+  background-image: url(src/assets/c4.jpg);
   text-align: center;
   font-family: Arial, sans-serif;
   background-color: #dfdfdf; /* Updated background color */
-  padding: 232px;
+  padding: 140px;
 }
 
 h1 {
